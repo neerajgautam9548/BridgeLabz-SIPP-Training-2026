@@ -1,0 +1,1 @@
+import java.util.*; public class MultiplesBelow100While{public static void main(String[] a){Scanner sc=new Scanner(System.in);int n=sc.nextInt(),c=100;while(c>=1){if(c%n==0)System.out.print(c+" ");c--;}}}

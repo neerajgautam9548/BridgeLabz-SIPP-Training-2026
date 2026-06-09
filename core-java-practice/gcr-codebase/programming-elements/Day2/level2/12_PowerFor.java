@@ -1,0 +1,1 @@
+import java.util.*; public class PowerFor{public static void main(String[] a){Scanner sc=new Scanner(System.in);int n=sc.nextInt(),p=sc.nextInt();long r=1;for(int i=1;i<=p;i++)r*=n;System.out.println(r);}}
