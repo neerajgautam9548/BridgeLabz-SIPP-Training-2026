@@ -1,1 +1,0 @@
-import java.util.*; public class PowerWhile{public static void main(String[] a){Scanner sc=new Scanner(System.in);int n=sc.nextInt(),p=sc.nextInt(),c=0;long r=1;while(c<p){r*=n;c++;}System.out.println(r);}}

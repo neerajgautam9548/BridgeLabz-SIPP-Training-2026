@@ -1,1 +1,0 @@
-import java.util.*; public class GreatestFactorWhile{public static void main(String[] a){Scanner sc=new Scanner(System.in);int n=sc.nextInt(),g=1,c=n-1;while(c>=1){if(n%c==0){g=c;break;}c--;}System.out.println(g);}}

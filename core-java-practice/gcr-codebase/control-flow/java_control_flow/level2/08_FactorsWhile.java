@@ -1,1 +1,0 @@
-import java.util.*; public class FactorsWhile{public static void main(String[] a){Scanner sc=new Scanner(System.in);int n=sc.nextInt(),i=1;while(i<n){if(n%i==0)System.out.print(i+" ");i++;}}}

@@ -1,1 +1,0 @@
-import java.util.*; public class EmployeeBonus{public static void main(String[] a){Scanner sc=new Scanner(System.in);double salary=sc.nextDouble();int years=sc.nextInt();System.out.println("Bonus="+(years>5?salary*0.05:0));}}
